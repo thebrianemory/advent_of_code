@@ -1,2 +1,0 @@
-defmodule DayOne do
-end
