@@ -257,4 +257,8 @@ defmodule DayTwoInput do
   def test_input do
     ["abcdef", "bababc", "abbcde", "abcccd", "aabcdd", "abcdee", "ababab"]
   end
+
+  def test_input_2 do
+    ["abcde", "fghij", "klmno", "pqrst", "fguij", "axcye", "wvxyz"]
+  end
 end
